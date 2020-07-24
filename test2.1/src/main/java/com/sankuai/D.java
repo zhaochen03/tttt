@@ -10,4 +10,5 @@ public class D {
     int a =10;
     int d=1;
     int e=111;
+    int rr=1;
 }
