@@ -11,4 +11,5 @@ public class D {
     int d=1;
     int e=111;
     int rr=1;
+    int rrr=4;
 }
