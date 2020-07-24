@@ -8,4 +8,5 @@ package com.sankuai;
 public class D {
 
     int a =10;
+    int d=1;
 }
